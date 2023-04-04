@@ -3,7 +3,12 @@
     --background-color: hsl(45deg 100% 51% / 20%);
 }
 
-body { font-family: 'Open Sans', sans-ser ;transition: background 0.2s linear;background-color: none;}
+body {
+    font-family: 'Open Sans',sans-ser ;
+    background-color: none;
+    transition: background 0.2s linear;
+    background-color: #fff;
+}
 
 *{ box-sizing: border-box; ;}
 
