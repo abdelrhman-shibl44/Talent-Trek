@@ -1,7 +1,7 @@
 :root {
     --main-color: #ffc107;
     --background-color: hsl(45deg 100% 51% / 20%);
-    --background-image: url(images/land1.webp)
+    --background-image: url(../images/land1.webp)
 }
 
 body { font-family: 'Open Sans', sans-ser ;transition: background 0.2s linear;background-color: none;}
@@ -1066,7 +1066,7 @@ body.active .tes-information span{
     padding-top:70px;
     padding-bottom:70px;
     text-align:center;
-    background-image:url(/images/world.jpg);
+    background-image:url(../images/world.jpg);
     background-size:cover;
     position: relative;
     z-index: 2;
