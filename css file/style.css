@@ -1,7 +1,6 @@
 :root {
     --main-color: #ffc107;
     --background-color: hsl(45deg 100% 51% / 20%);
-    --background-image: url(../images/land1.webp)
 }
 
 body { font-family: 'Open Sans', sans-ser ;transition: background 0.2s linear;background-color: none;}
@@ -190,7 +189,7 @@ body { font-family: 'Open Sans', sans-ser ;transition: background 0.2s linear;ba
     position: relative;
     min-height: 100vh;
     background-size: cover;
-    background-image: var(--background-image);
+    background-image: url(../images/land1.webp);
     text-transform: capitalize;
     transition: 1s;
 }
