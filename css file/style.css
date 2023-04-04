@@ -5,7 +5,6 @@
 
 body {
     font-family: 'Open Sans',sans-ser ;
-    background-color: none;
     transition: background 0.2s linear;
     background-color: #fff;
 }
