@@ -93,7 +93,7 @@ colorList.forEach((li) => {
 
 // end the colors
 // start DarkMode
-getdarkMode_active = localStorage.getItem("darkMode-active");
+let getdarkMode_active = localStorage.getItem("darkMode-active");
 
 darkmode = document.querySelector(".dark-mode");
 feetBoxP = document.querySelectorAll(".feetBox p");
